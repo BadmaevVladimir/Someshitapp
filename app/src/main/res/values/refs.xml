@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_round_menu_24" />
+    <drawable name="ic_round_favorite_border_24" />
+    <drawable name="ic_round_search_24" />
+    <drawable name="ic_round_favorite" />
+    <drawable name="ic_round_watch_later" />
+    <drawable name="ic_round_video_library" />
+    <drawable name="ic_round_settings" />
+</resources>
